@@ -5,19 +5,21 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "npm run check:i18n && tsc -b && vite build",
     "preview": "vite preview",
-    "check:i18n": "node scripts/check-translations.mjs"
+    "check:i18n": "node scripts/check-translations.mjs",
+    "test": "vitest run"
   },
   "dependencies": {
     "@tanstack/react-query": "^5.59.20",
     "@supabase/supabase-js": "^2.49.1",
     "i18next": "^24.2.3",
     "lucide-react": "^0.468.0",
+    "react-helmet-async": "^2.0.5",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-i18next": "^15.4.1",
-    "react-router-dom": "^6.28.1"
+    "react-router-dom": "^7.18.5"
   },
   "devDependencies": {
     "@types/react": "^18.3.12",
@@ -27,6 +29,7 @@
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.16",
     "typescript": "~5.6.2",
-    "vite": "^6.0.5"
+    "vite": "^6.0.5",
+    "vitest": "^5.1.0"
   }
 }

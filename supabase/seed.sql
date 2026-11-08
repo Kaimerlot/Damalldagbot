@@ -1,0 +1,3 @@
+-- Add only current-season club rows verified against an approved data source.
+-- Keep verified=false until city, league membership, and display details are checked.
+-- Add original city-colour patterns in colours; do not add crests, official marks, or kit artwork.

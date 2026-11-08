@@ -5,6 +5,8 @@
   "login": "Log in",
   "profile": "My profile",
   "switchLanguage": "Switch language",
+  "darkMode": "Enable dark mode",
+  "lightMode": "Enable light mode",
   "footerNote": "An unofficial meeting place for Damallsvenskan supporters.",
   "footerAbout": "About",
   "footerPrivacy": "Privacy",
@@ -46,5 +48,7 @@
     "empty": "Nothing to show yet",
     "notFound": "Page not found",
     "notFoundText": "This page seems to have gone over the touchline."
-  }
+  },
+  "styleguide": { "title": "Styleguide", "intro": "Sidlinjen colours, components and city patterns." },
+  "admin": { "title": "Admin", "news": "News", "quiz": "Quiz", "players": "Players", "history": "History", "clubs": "Clubs", "products": "Products", "orders": "Orders", "sync": "Sync log", "empty": "Admin tools connect to the database once the project is configured." }
 }

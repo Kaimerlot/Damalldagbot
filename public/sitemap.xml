@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://YOUR_DOMAIN.example/sv</loc><xhtml:link rel="alternate" hreflang="sv" href="https://YOUR_DOMAIN.example/sv"/><xhtml:link rel="alternate" hreflang="en" href="https://YOUR_DOMAIN.example/en"/></url>
+  <url><loc>https://YOUR_DOMAIN.example/sv/nyheter</loc><xhtml:link rel="alternate" hreflang="sv" href="https://YOUR_DOMAIN.example/sv/nyheter"/><xhtml:link rel="alternate" hreflang="en" href="https://YOUR_DOMAIN.example/en/news"/></url>
+  <url><loc>https://YOUR_DOMAIN.example/sv/matcher</loc><xhtml:link rel="alternate" hreflang="sv" href="https://YOUR_DOMAIN.example/sv/matcher"/><xhtml:link rel="alternate" hreflang="en" href="https://YOUR_DOMAIN.example/en/matches"/></url>
+  <url><loc>https://YOUR_DOMAIN.example/sv/klubbar</loc><xhtml:link rel="alternate" hreflang="sv" href="https://YOUR_DOMAIN.example/sv/klubbar"/><xhtml:link rel="alternate" hreflang="en" href="https://YOUR_DOMAIN.example/en/clubs"/></url>
+  <url><loc>https://YOUR_DOMAIN.example/sv/historia</loc><xhtml:link rel="alternate" hreflang="sv" href="https://YOUR_DOMAIN.example/sv/historia"/><xhtml:link rel="alternate" hreflang="en" href="https://YOUR_DOMAIN.example/en/history"/></url>
+  <url><loc>https://YOUR_DOMAIN.example/sv/spelare</loc><xhtml:link rel="alternate" hreflang="sv" href="https://YOUR_DOMAIN.example/sv/spelare"/><xhtml:link rel="alternate" hreflang="en" href="https://YOUR_DOMAIN.example/en/players"/></url>
+  <url><loc>https://YOUR_DOMAIN.example/sv/spel</loc><xhtml:link rel="alternate" hreflang="sv" href="https://YOUR_DOMAIN.example/sv/spel"/><xhtml:link rel="alternate" hreflang="en" href="https://YOUR_DOMAIN.example/en/games"/></url>
+  <url><loc>https://YOUR_DOMAIN.example/sv/shop</loc><xhtml:link rel="alternate" hreflang="sv" href="https://YOUR_DOMAIN.example/sv/shop"/><xhtml:link rel="alternate" hreflang="en" href="https://YOUR_DOMAIN.example/en/shop"/></url>
+</urlset>

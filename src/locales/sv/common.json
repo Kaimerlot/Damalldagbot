@@ -5,6 +5,8 @@
   "login": "Logga in",
   "profile": "Min profil",
   "switchLanguage": "Byt språk",
+  "darkMode": "Aktivera mörkt läge",
+  "lightMode": "Aktivera ljust läge",
   "footerNote": "En inofficiell mötesplats för Damallsvenskans supportrar.",
   "footerAbout": "Om oss",
   "footerPrivacy": "Integritet",
@@ -46,5 +48,7 @@
     "empty": "Inget att visa ännu",
     "notFound": "Sidan hittades inte",
     "notFoundText": "Den här sidan verkar ha gått ut över sidlinjen."
-  }
+  },
+  "styleguide": { "title": "Stilguide", "intro": "Sidlinjens färger, komponenter och stadsmönster." },
+  "admin": { "title": "Admin", "news": "Nyheter", "quiz": "Quiz", "players": "Spelare", "history": "Historia", "clubs": "Klubbar", "products": "Produkter", "orders": "Beställningar", "sync": "Synklogg", "empty": "Adminverktyget ansluts till databasen när projektet är konfigurerat." }
 }
